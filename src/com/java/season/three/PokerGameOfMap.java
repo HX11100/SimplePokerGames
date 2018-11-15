@@ -1,5 +1,5 @@
 
-package java.season.three;
+package com.java.season.three;
 
 import java.util.ArrayList;
 import java.util.Collections;

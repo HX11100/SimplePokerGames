@@ -1,6 +1,12 @@
+/**
+ * 
+ */
+package com.java.season.three;
 
-package java.season.three;
-
+/**
+ * @author H.Xing
+ *
+ */
 public class Player {
 
 	private int id;

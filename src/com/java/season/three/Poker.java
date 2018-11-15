@@ -1,5 +1,5 @@
 
-package java.season.three;
+package com.java.season.three;
 
 /**
  * @author H.Xing
