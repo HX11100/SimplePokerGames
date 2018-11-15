@@ -1,5 +1,5 @@
 
-package seven.simplepokergames;
+package java.season.three;
 
 import java.util.ArrayList;
 import java.util.Collections;

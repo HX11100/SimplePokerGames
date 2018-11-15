@@ -1,5 +1,5 @@
 
-package seven.simplepokergames;
+package java.season.three;
 
 /**
  * @author H.Xing
